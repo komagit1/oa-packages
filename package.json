@@ -31,6 +31,7 @@
     "json-web-token": "^3.2.0",
     "jsonwebtoken": "^9.0.0",
     "keycloak-connect": "^23.0.3",
+    "lodash": "^4.17.21",
     "log4js": "^6.7.1",
     "melt-data": "^0.2.1",
     "moment": "^2.29.4",
